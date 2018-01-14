@@ -8,6 +8,6 @@ function whisper(string) {
   return silent
 }
 
-function logShout() {
-  
+function logShout(string) {
+
 }
