@@ -1,3 +1,4 @@
 function shout(string) {
-  return 
+  var loud = string.toUpperCase()
+  return loud
 }
