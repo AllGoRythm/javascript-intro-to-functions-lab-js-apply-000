@@ -24,3 +24,7 @@ function sayHiToGrandma(string) {
   }
 
 }
+
+function sayHiToGrandma(string) {
+
+}
